@@ -9,11 +9,11 @@ sites:
     check: "tcp-ping"
     url: 8.8.4.4
     port: 53
-  - name: Google DNS 2
+  - name: affigame fivepd 
     check: "tcp-ping"
     url: play.affigame.com
     port: 30130
-  - name: Google DNS 3
+  - name: affigame fivepd 2
     check: "udp-ping"
     url: play.affigame.com
     port: 30130
@@ -31,8 +31,8 @@ status-website:
   navbar:
     - title: Status
       href: /upptime
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: site web affigame
+      href: https://www.affigame.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
