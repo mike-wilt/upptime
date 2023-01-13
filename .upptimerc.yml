@@ -16,12 +16,15 @@ sites:
     url: https://www.affigame.com
   - name: affigame fivepd 
     url: $SERVEURFIVEPD
+    icon: https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png
   - name: affigame fivem dev
     url: $SERVEURDEV
+    icon: https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png
   - name: affigame fivem TEST
     check: "tcp-ping"
     url: $SERVEURFIVEM
     port: 30130
+    icon: https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png
 
 status-website:
   theme: night
@@ -29,7 +32,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.affigame.com/wp-content/uploads/2022/10/affigame5-160x36-1.png
   name : status affigame
   introTitle: "**affigame** est une communauté basser sur les jeux vidéo "
   introMessage: visite le site https://www.affigame.com pour nous rejoindre
