@@ -5,14 +5,18 @@ repo: upptime # The name of this repository
 sites:
   - name: affigame
     url: https://www.affigame.com
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+  - name: Google DNS 2
+    check: "tcp-ping"
+    url: play.affigame.com
+    port: 30130
+  - name: Google DNS 3
+    check: "udp-ping"
+    url: play.affigame.com
+    port: 30130
 
 status-website:
   theme: night
