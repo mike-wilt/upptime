@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 517,
-    "timeDay": 517,
-    "timeWeek": 517,
-    "timeMonth": 517,
-    "timeYear": 517,
+    "time": 492,
+    "timeDay": 492,
+    "timeWeek": 492,
+    "timeMonth": 492,
+    "timeYear": 492,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 187,
-    "timeWeek": 187,
-    "timeMonth": 187,
-    "timeYear": 187,
+    "time": 231,
+    "timeDay": 231,
+    "timeWeek": 231,
+    "timeMonth": 231,
+    "timeYear": 231,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "affigame-fivem-dev",
     "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
+    "uptime": "60.92%",
+    "uptimeDay": "60.92%",
+    "uptimeWeek": "60.92%",
+    "uptimeMonth": "60.92%",
+    "uptimeYear": "60.92%",
     "time": 159,
     "timeDay": 159,
     "timeWeek": 159,
     "timeMonth": 159,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2023-01-13": 0
+      "2023-01-13": 8
     }
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 40,
-    "timeDay": 40,
-    "timeWeek": 40,
-    "timeMonth": 40,
-    "timeYear": 40,
+    "time": 45,
+    "timeDay": 45,
+    "timeWeek": 45,
+    "timeMonth": 45,
+    "timeYear": 45,
     "dailyMinutesDown": {}
   }
 ]
