@@ -5,18 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: affigame
     url: https://www.affigame.com
-  - name: Google DNS 1
-    check: "tcp-ping"
-    url: 8.8.4.4
-    port: 53
   - name: affigame fivepd 
-    check: "tcp-ping"
-    url: play.affigame.com
-    port: 30130
-  - name: affigame fivepd 2
-    check: "tcp-ping"
-    url: play.affigame.com
-    port: 30140
+    url: $serveurfivepd
+  - name: affigame fivem dev
+    url: $serveurdev
 
 status-website:
   theme: night
