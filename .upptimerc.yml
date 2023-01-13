@@ -6,9 +6,13 @@ sites:
   - name: affigame
     url: https://www.affigame.com
   - name: affigame fivepd 
-    url: $serveurfivepd
+    url: $SERVEURFIVEPD
   - name: affigame fivem dev
-    url: $serveurdev
+    url: $SERVEURDEV
+  - name: affigame fivem TEST
+    check: "tcp-ping"
+    url: $SERVEURFIVEM
+    port: 30130
 
 status-website:
   theme: night
