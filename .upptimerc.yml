@@ -14,9 +14,9 @@ sites:
     url: play.affigame.com
     port: 30130
   - name: affigame fivepd 2
-    check: "udp-ping"
+    check: "tcp-ping"
     url: play.affigame.com
-    port: 30130
+    port: 30140
 
 status-website:
   theme: night
