@@ -23,38 +23,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "affigame-fivepd",
     "status": "up",
-    "uptime": "73.23%",
-    "uptimeDay": "73.23%",
-    "uptimeWeek": "73.23%",
-    "uptimeMonth": "73.23%",
-    "uptimeYear": "73.23%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 187,
     "timeWeek": 187,
     "timeMonth": 187,
     "timeYear": 187,
-    "dailyMinutesDown": {
-      "2023-01-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "affigame fivem dev",
     "url": "$SERVEURDEV",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "affigame-fivem-dev",
-    "status": "up",
-    "uptime": "2.80%",
-    "uptimeDay": "2.80%",
-    "uptimeWeek": "2.80%",
-    "uptimeMonth": "2.80%",
-    "uptimeYear": "2.80%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 159,
     "timeDay": 159,
     "timeWeek": 159,
     "timeMonth": 159,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2023-01-13": 5
+      "2023-01-13": 0
     }
   },
   {
