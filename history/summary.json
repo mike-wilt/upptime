@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.affigame.com.ico",
     "slug": "affigame",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 541,
     "timeDay": 334,
     "timeWeek": 699,
@@ -25,18 +25,19 @@
     "url": "$SERVEURFIVEPD",
     "icon": "https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png",
     "slug": "affigame-fivepd",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 438,
     "timeDay": 483,
     "timeWeek": 479,
     "timeMonth": 438,
     "timeYear": 438,
     "dailyMinutesDown": {
+      "2023-01-27": 2,
       "2023-01-19": 5
     }
   },
@@ -45,10 +46,10 @@
     "url": "$SERVEURDEV",
     "icon": "https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png",
     "slug": "affigame-fivem-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.93%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 330,
@@ -57,6 +58,7 @@
     "timeMonth": 330,
     "timeYear": 330,
     "dailyMinutesDown": {
+      "2023-01-27": 1,
       "2023-01-25": 5
     }
   },
@@ -65,9 +67,9 @@
     "url": "$SERVEURFIVEM",
     "icon": "https://www.affigame.com/wp-content/uploads/2022/10/affigame5-36x36-1.png",
     "slug": "affigame-fivem-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,6 +78,8 @@
     "timeWeek": 78,
     "timeMonth": 70,
     "timeYear": 70,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-27": 0
+    }
   }
 ]
