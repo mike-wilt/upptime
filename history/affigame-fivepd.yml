@@ -1,7 +1,7 @@
 url: $SERVEURFIVEPD
-status: down
-code: 404
-responseTime: 250
-lastUpdated: 2023-03-09T22:13:49.423Z
+status: up
+code: 200
+responseTime: 624
+lastUpdated: 2023-03-09T22:28:59.391Z
 startTime: Fri Jan 13 2023 12:56:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
