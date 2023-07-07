@@ -1,7 +1,7 @@
 url: https://www.affigame.com
-status: up
-code: 200
-responseTime: 1200
-lastUpdated: 2023-07-06T23:24:44.746Z
+status: down
+code: 503
+responseTime: 385
+lastUpdated: 2023-07-07T06:18:36.714Z
 startTime: Fri Jan 13 2023 12:56:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
